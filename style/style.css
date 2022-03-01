@@ -15,12 +15,21 @@ body {
 }
 
 #container {
-	width: 270px;
+	width: 280px;
 	top: 50%;
 	margin: auto;
 	padding: 15px;
 	border-radius: 15px;
+	text-align: center;
 	background-color: var(--main-white);
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.text {
+	padding: 0 20px;
 }
 
 img {
@@ -31,4 +40,8 @@ img {
 p {
 	font-size: 15px;
 	color: var(--main-grayish-blue);
+}
+
+h3 {
+	font-size: 20px;
 }
