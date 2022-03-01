@@ -21,13 +21,9 @@ Simple QR component by frontend mentor
 ![](./design/my-mobile-design.png)
 
 
-
-
-
-
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [visit site](https://jabrayilzadeali.github.io/QR-code-Component-by-frontendmentor/)
 
 ## My process
 
@@ -38,13 +34,11 @@ Simple QR component by frontend mentor
 - Flexbox
 - Mobile-first workflow
 
-
 ### What I learned
 
 Today is the first time for me create a copy of website. I learn how:
 - learned about css units(example: vh)
 - centering div using flexbox
-
 
 To see how you can add code snippets, see below:
 
